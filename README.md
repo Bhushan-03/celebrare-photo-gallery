@@ -131,8 +131,6 @@ Through this project, I practised:
 This project was developed as a frontend assignment for Celebrare.
 
 - **GitHub Repository:** [View the source code](https://github.com/Bhushan-03/celebrare-photo-gallery)
-- **Screen Recording:** Add your recording link here after uploading it.
-- **Hardest Part:** Add a brief, honest description of the most challenging part of building the application.
 
 ---
 
